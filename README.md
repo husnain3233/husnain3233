@@ -57,7 +57,7 @@
 
 📧 [Email Me](mailto:chhusnain3233@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/husnain-raza-436265385?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-🌍 [Portfolio Website](https://github.com/husnain3233)
+🌍 [GitHub Portfolio](https://github.com/husnain3233)
 
 ---
 
